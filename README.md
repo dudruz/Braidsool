@@ -1,150 +1,123 @@
-#🌿 Braidsool — Tranças com Identidade
-
-Site oficial da Braidsool, desenvolvido para apresentar serviços de tranças com uma estética moderna, elegante e marcante.
+🌿 Braidsool — Tranças com Identidade
+<p align="center"> <b>Estilo • Identidade • Presença</b><br/> Site institucional moderno para apresentação de serviços de tranças. </p>
+🚀 Preview
 
 📄 Arquivo principal:
 
-✨ Sobre
+✨ Sobre o projeto
 
-A Braidsool é mais que um serviço de tranças — é uma experiência.
+A Braidsool é uma marca focada em tranças com estética premium.
+Este site foi desenvolvido para transmitir:
 
-O site foi criado para transmitir:
+🎯 Sofisticação
 
-Estilo e personalidade
+🎨 Identidade visual forte
 
-Cuidado em cada detalhe
+💇🏽‍♀️ Valorização do trabalho artesanal
 
-Identidade cultural
+📲 Conversão direta via WhatsApp
 
-Sofisticação visual
+🧠 Conceito
 
-Com uma navegação fluida e imersiva, o visitante sente a qualidade do trabalho antes mesmo de agendar.
+"Cada trança é uma obra. Cada cliente, uma história."
 
-🎥 Experiência visual
+🛠️ Tecnologias
+✔ HTML5
+✔ CSS3 (animações + variáveis)
+✔ JavaScript
+✔ Canvas API (background animado)
+✔ Google Fonts
+🎨 Destaques do projeto
 
-O site conta com elementos modernos que elevam a percepção da marca:
+💫 Background animado interativo
 
-Vídeo real (reel) mostrando o processo e resultado das tranças
+🖱️ Cursor com efeito glow
 
-Fotos reais dos trabalhos (Box Braids, Nagô, Twists e Manutenção)
+🎥 Seção de vídeo estilo reel
 
-Animações suaves ao rolar a página
+🖼️ Galeria com hover elegante
 
-Fundo animado orgânico e interativo
+📱 Layout 100% responsivo
 
-Efeito de luz acompanhando o cursor
+⚡ Animações suaves (scroll reveal)
 
-🧱 Estrutura do site
+🎯 CTA direto para WhatsApp
 
-Hero Section
-Apresentação da marca com foto principal e chamada forte.
+🧱 Estrutura
+📁 Projeto
+ ├── index.html
+ ├── assets/
+ │   ├── images/
+ │   └── videos/
+ └── README.md
+🔗 Integrações
 
-Reel (Vídeo)
-Exibição do trabalho em movimento, trazendo mais conexão com o cliente.
+📲 WhatsApp
 
-Galeria
-Trabalhos reais exibidos com hover elegante e destaque visual.
+📸 Instagram
 
-Serviços
-Descrição dos principais estilos oferecidos:
+Instagram: https://www.instagram.com/braidsool/
+WhatsApp: https://wa.me/553196659503
+📸 Seções do site
 
-Box Braids
+Hero → Apresentação forte da marca
 
-Nagô
+Reel → Vídeo com o trabalho
 
-Twists
+Galeria → Portfólio visual
 
-Manutenção
+Serviços → Tipos de tranças
 
-Feedbacks
-Depoimentos reais de clientes satisfeitas.
+Feedbacks → Prova social
 
-Diferenciais
-O que torna a Braidsool única no atendimento e execução.
+Diferenciais → Posicionamento
 
-CTA (Chamada final)
-Direcionamento direto para agendamento via WhatsApp.
+CTA → Conversão
 
-🚀 Tecnologias utilizadas
+⚙️ Como rodar o projeto
+# Clone o repositório
+git clone https://github.com/seu-usuario/braidsool.git
 
-HTML5
+# Acesse a pasta
+cd braidsool
 
-CSS3 (animações avançadas + variáveis)
-
-JavaScript
-
-Canvas API (background animado)
-
-Google Fonts
-
-📲 Integrações
-
-WhatsApp: agendamento direto
-
-Instagram: portfólio e prova social
-
-🔗 Instagram: https://www.instagram.com/braidsool/
-
-📞 WhatsApp: https://wa.me/553196659503
-
-🎨 Identidade visual
-
-O design foi construído com base em tons:
-
-Nude
-
-Pêssego
-
-Caramelo
-
-Marrom
-
-Transmitindo:
-
-elegância + naturalidade + exclusividade
-
-📱 Responsividade
-
-O site é totalmente responsivo e adaptado para:
-
-Mobile 📱
-
-Tablet 💻
-
-Desktop 🖥️
-
-⚡ Performance
-
-Estrutura leve e rápida
-
-Carregamento otimizado
-
-Animações suaves sem travamento
-
-💡 Objetivo do projeto
+# Abra no navegador
+index.html
+🎯 Objetivo
 
 Converter visitantes em clientes através de:
 
-Experiência visual forte
+Experiência visual premium
 
-Confiança (feedbacks + portfólio)
+Prova social (feedbacks)
 
 Facilidade de contato
 
-🔮 Próximos passos
+🔥 Customização
+Alterar imagens
+<img src="assets/images/sua-imagem.jpg" alt="Tranças">
+Adicionar vídeo
+<video src="assets/videos/reel.mp4" autoplay muted loop></video>
+Alterar cores
+:root {
+  --peach: #e8b89a;
+  --caramel: #c9895c;
+}
+📱 Responsividade
 
-Integração com sistema de agendamento automático
+✔ Mobile
+✔ Tablet
+✔ Desktop
 
-Chatbot para Instagram/WhatsApp
+🔮 Melhorias futuras
 
-Área de clientes
+🤖 Chatbot automatizado
 
-Página de preços dinâmica
+📅 Sistema de agendamento
 
-🧠 Conceito da marca
+📊 Dashboard de clientes
 
-“Tranças com estilo, identidade e presença.”
+🌐 SEO para Google
 
-👨‍💻 Desenvolvimento
-
-Projeto desenvolvido com foco em design moderno, experiência do usuário e conversão.
+👨‍💻 Autor
+dUz00m
