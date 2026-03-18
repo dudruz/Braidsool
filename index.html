@@ -1619,6 +1619,39 @@
       }
     }
 
+    .dev-signature{
+  font-size:.75rem;
+  color:rgba(255,255,255,0.5);
+  margin-top:12px;
+  text-align:center;
+  letter-spacing:.05em;
+}
+
+.dev-signature a{
+  color:var(--green);
+  text-decoration:none;
+  position:relative;
+  transition:.3s;
+}
+
+.dev-signature a::after{
+  content:'';
+  position:absolute;
+  left:0;
+  bottom:-2px;
+  width:0%;
+  height:1px;
+  background:var(--green);
+  transition:.3s;
+}
+
+.dev-signature a:hover{
+  color:#fff;
+}
+
+.dev-signature a:hover::after{
+  width:100%;
+}
     /* ============================================================
        DIVIDER ORNAMENT
     ============================================================ */
@@ -2244,6 +2277,12 @@
         <div class="footer-bottom">
           <p class="footer-copy">© 2026 Braidsool. Todos os direitos reservados.</p>
           <p class="footer-tagline">Arte em cada fio.</p>
+        </div>
+        <div class="dev-signature">
+          <span>Criado por </span>
+            <a href="https://dudruz.github.io/dUz00m/" target="_blank">
+            dUz00m
+            </a>
         </div>
       </div>
     </footer>
